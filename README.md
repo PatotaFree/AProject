@@ -1,2 +1,1 @@
-# AProject
-Lua Developer
+# This is my second project
